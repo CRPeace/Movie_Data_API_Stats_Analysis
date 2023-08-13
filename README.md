@@ -5,7 +5,7 @@
 ### <mark>**Quick Summary** 
 * The analysis revealed that ***movies rated for general audiences (G to PG-13) financially outperformed movies for mature audiences.***
 *  The analysis revealed the ***specific revenue drop during 2020-2021 due the pandemic*** when compared to 2018-2019.
-* The analysis also suggests that ***movies with common words in their titles underperform in terms of revenue.***
+* The analysis also suggests that ***the specific words used in a movie's title do not affect revenue in a statistically significant way.***
 ---
 
 ### Data Background:
