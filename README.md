@@ -20,7 +20,7 @@
 ---
 ![](https://github.com/CRPeace/Movie_Data_API_Stats_Analysis/blob/09f1e1af5124093153acb7d165a54915f9cd57a0/Data%20Viz/Movie%20Title%20Samples.png)
 * This visualization shows that movies that include common words in their titles (excluding words such as 'and', 'of', 'the', etc.) did not perform as well as movies whose titles used words less common in the dataset.
-* A Kruskal-Wallis ANOVA revealed the findings were statistically significant.
+* An ANOVA revealed the findings were not statistically significant.
 ---
 ![](https://github.com/CRPeace/Movie_Data_API_Stats_Analysis/blob/09f1e1af5124093153acb7d165a54915f9cd57a0/Data%20Viz/Pandemic%20Effect.png)
 * This visualization highlights the dramatic loss in average revenue due to the COVID-19 pandemic.
