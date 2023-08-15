@@ -13,7 +13,7 @@
 * ### The data were combined, cleaned, and filtered to select movies released in the US during the period 2000-2022, where sufficient financial data were present.
     
 ## Data Visualizations
-![](https://github.com/CRPeace/Movie_Data_API_Stats_Analysis/blob/main/Data%20Viz/Movies%20by%20Rating.png)
+![](https://github.com/CRPeace/Movie_Data_API_Stats_Analysis/blob/main/Data%20Viz/Median%20Movie%20Revenue%20by%20Rating.png)
 
 * This visualization displays median revenue when the movies are grouped by MPAA rating.  We can see that movies for general audiences vastly outperform movies for mature audiences.  
 * A Kruskal-Wallis ANOVA revealed the findings were statistically significant.
@@ -24,6 +24,9 @@
 ---
 ![](https://github.com/CRPeace/Movie_Data_API_Stats_Analysis/blob/main/Data%20Viz/Pandemic%20Effect.png)
 * This visualization highlights the dramatic loss in average revenue due to the COVID-19 pandemic.
+
+![](https://github.com/CRPeace/Movie_Data_API_Stats_Analysis/blob/main/Data%20Viz/Number%20Release%20per%20Year%20by%20Rating.png)
+* This visualization shows the number of releases per year by rating
 
 ---
 ### For further information
